@@ -18,5 +18,5 @@ My research interests lie in the intersection of artificial intelligence and rob
 <h2>Contact me</h2>
 
 
-[Email](mailto:keyako@stu.pku.edu.cn) / [Github](https://github.com/ruhaoxuan) / [Wechat](../images/wechat.png) 
+[Email](mailto:keyako@stu.pku.edu.cn) / [Github](https://github.com/ruhaoxuan) / [Wechat](../images/rhx.png) 
 
